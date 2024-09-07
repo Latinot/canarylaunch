@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Latinot/canarylaunch/releases/download/neb/tibia-client-13.34.93b0a1.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "client 1340.exe"
 }
